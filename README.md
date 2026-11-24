@@ -162,6 +162,7 @@ pasta do agente (`C:\Program Files\Mesh Agent\`) e para a pasta de instaladores
 
 ## Créditos e licenças
 
+- O código deste repositório (Terraform, tema e scripts) está sob a licença [MIT](LICENSE).
 - [MeshCentral](https://github.com/Ylianst/MeshCentral) (Apache-2.0), usado pela imagem oficial,
   sem modificações.
 - Fonte [Poppins](https://fonts.google.com/specimen/Poppins) (SIL OFL, em `theme/fonts/OFL.txt`).
