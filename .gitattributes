@@ -1,0 +1,4 @@
+*.woff2 binary
+*.png   binary
+# PowerShell 5.1 precisa do BOM UTF-8 e de CRLF: o git não deve mexer.
+*.ps1   -text

@@ -1,0 +1,10 @@
+# Copie para terraform.tfvars (que não vai para o git) e preencha.
+subscription_id = "00000000-0000-0000-0000-000000000000"
+hostname        = "remoto.suaempresa.com.br"
+
+# Opcional: login pelo Google (cliente OAuth do tipo Interno, só contas da sua organização)
+# google_client_id     = "000000000000-xxxxxxxx.apps.googleusercontent.com"
+# google_client_secret = "GOCSPX-..."
+
+# Primeira subida: libere só o seu IP até criar a conta admin, depois volte para [].
+# allowed_ips = ["203.0.113.10/32"]

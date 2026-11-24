@@ -1,0 +1,6 @@
+# Copie para backend.hcl (que não vai para o git) e aponte para uma storage de state sua.
+resource_group_name  = "tfstate-rg"
+storage_account_name = "sttfstateexemplo"
+container_name       = "tfstate"
+key                  = "meshcentral.tfstate"
+subscription_id      = "00000000-0000-0000-0000-000000000000"
